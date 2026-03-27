@@ -30,5 +30,5 @@ Here is what you will find in this repository:
 
 ## 📫 Let's Connect!
 Looking for a proactive Junior IT/Sec Analyst or just want to chat about tech?
-- [LinkedIn Profile](WSTAW_TUTAJ_LINK_DO_SWOJEGO_LINKEDINA)
+- [LinkedIn Profile](linkedin.com/in/mateusz-matwiejczyk-40a2b03a1)
 - Email: matw709@gmail.com
